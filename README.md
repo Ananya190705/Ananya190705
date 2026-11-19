@@ -1,130 +1,134 @@
 
 <div align="center">
 
-# Hi, I'm Ananya.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=180&section=header&text=ANANYA&fontSize=55&fontColor=FFFFFF&fontAlignY=45&desc=Building%20Ideas%20Into%20Reality&descAlignY=72&descSize=17" width="100%"/>
 
 ### Computer Science Engineering Student | Software Developer
 
-I enjoy turning ideas into functional applications 
-and solving real-world problems through technology.
-
-Currently exploring full-stack development, software 
-engineering and emerging technologies.
-
-[GitHub](https://github.com/Ananya190705) · India · Class of 2027
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ananya190705)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ananya190705)
 
 </div>
 
 ---
 
-## About Me
+## ✦ About Me
 
-A Computer Science Engineering student with an interest
-in building practical and user-focused software solutions.
+I'm a Computer Science Engineering student interested in building practical software solutions and creating meaningful digital experiences.
 
-I enjoy working across the development stack, exploring
-new technologies and continuously improving my approach
-to software development.
-
-Currently focused on:
-- Full Stack Development
-- Data Structures & Algorithms
-- Backend Development
-- Exploring DevOps and AI technologies
+-  Computer Science Engineering | Class of 2027
+-  Interested in Full Stack Development
+-  Exploring Backend Development, DevOps and AI
+-  Learning Data Structures and Algorithms
+-  Always curious to explore new technologies
 
 ---
 
-## Tech Stack
+## ✦ Tech Stack
 
-**Languages**
+### Programming Languages
 
-`Java` `JavaScript`  `C` `SQL`
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,c" />
+</p>
 
-**Frontend**
+### Frontend Development
 
-`HTML` `CSS` `React`  `Tailwind CSS`
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
+</p>
 
-**Backend**
+### Backend & Databases
 
-`Node.js` `Express.js`
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
 
-**Databases**
+### Tools & Platforms
 
-`MongoDB` `MySQL`
-
-**Tools**
-
-`Git` `GitHub` `VS Code` `Postman` `Docker`
-
----
-
-## Selected Projects
-
-### PRISM
-Hostel Complaint Management System
-
-A centralized hostel complaint management platform designed to streamline complaint registration, tracking and resolution.
-
-`MongoDB` `Express.js` `React` `Node.js`
-
-### MentorSync
-Mentorship Management Platform
-
-A collaborative mentorship platform designed to connect mentors and mentees, facilitate progress tracking and enable communication with parents when needed, creating a more coordinated mentorship experience
-
-`MERN Stack` `JWT` `NodeMailer`
-
-### VendorSphere
-Smart Procurement & Vendor Management
-
-A smart procurement and vendor management platform designed to organize vendor information and simplify procurement workflows.
-
-`React` `TypeScript` `Node.js` `MongoDB`
-
-### Movie Explorer
-Movie Discovery Application
-
-A movie discovery application that makes exploring and browsing movie information simple and intuitive.
-
-`MERN Stack`
-
-### ResearchLens
-Currently in Development
-
-A platform that analyses and compares research papers, extracting methodologies, algorithms, datasets, performance metrics, findings, limitations and research gaps to support better research insights.
-
-`MERN Stack`
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
 
 ---
 
-## GitHub Statistics
+## ✦ Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3> PRISM</h3>
+<b>Hostel Complaint Management</b>
+<p>A centralized platform to streamline hostel complaint registration, tracking and resolution.</p>
+<img src="https://img.shields.io/badge/MERN-Stack-61DAFB?style=flat-square"/>
+</td>
+<td width="50%">
+<h3> MentorSync</h3>
+<b>Mentorship Management Platform</b>
+<p>Connects mentors and mentees, tracks progress and enables parent communication when needed.</p>
+<img src="https://img.shields.io/badge/JWT-Authentication-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/NodeMailer-Integration-green?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3> VendorSphere</h3>
+<b>Smart Procurement & Vendor Management</b>
+<p>A platform designed to organize vendor information and simplify procurement workflows.</p>
+<img src="https://img.shields.io/badge/React-TypeScript-blue?style=flat-square"/>
+</td>
+<td width="50%">
+<h3> Movie Explorer</h3>
+<b>Movie Discovery Application</b>
+<p>An interactive application for exploring and discovering movie information.</p>
+<img src="https://img.shields.io/badge/MERN-Stack-61DAFB?style=flat-square"/>
+</td>
+</tr>
+</table>
+
+###  Currently Building — ResearchLens
+
+An AI-powered research paper analysis platform that compares papers and extracts methodologies, algorithms, datasets, performance metrics, findings and research gaps.
+
+<img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Stack-MERN-61DAFB?style=flat-square"/>
+
+---
+
+## ✦ GitHub Analytics
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ananya190705&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ananya190705&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya190705&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=AAAAAA" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya190705&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ananya190705&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
 ---
 
-## Contribution Activity
+## ✦ Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananya190705&bg_color=00000000&color=AAAAAA&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ananya190705&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-## Connect
+## ✦ Let's Connect
 
 <div align="center">
 
-[GitHub](https://github.com/Ananya190705)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Ananya190705)
 
-**Always open to learning, collaboration and new opportunities.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+
+**Curious by nature. Building with purpose. Growing through code.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=100&section=footer" width="100%"/>
 
 </div>
