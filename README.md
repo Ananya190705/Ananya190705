@@ -1,14 +1,26 @@
 
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=180&section=header&text=ANANYA&fontSize=55&fontColor=FFFFFF&fontAlignY=45&desc=Building%20Ideas%20Into%20Reality&descAlignY=72&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:00C9FF&height=220&section=header&text=Ananya%20G&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Learner%20%7C%20Problem%20Solver&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-### Computer Science Engineering Student | Software Developer
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ananya190705)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ananya190705)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Full+Stack+Developer+in+Progress;Turning+Ideas+Into+Reality;Always+Learning%2C+Always+Building" />
+
+<br/><br/>
+
+<a href="https://github.com/Ananya190705">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/Ananya190705">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
+
+---
+
 
 ---
 
@@ -92,20 +104,6 @@ An AI-powered research paper analysis platform that compares papers and extracts
 
 <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square"/>
 <img src="https://img.shields.io/badge/Stack-MERN-61DAFB?style=flat-square"/>
-
----
-
-## ✦ GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ananya190705&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya190705&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ananya190705&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
 
 ---
 
